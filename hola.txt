@@ -1,0 +1,23 @@
+commit 44ade0f1216393cd0d063589a56bda42aa10afda
+Author: ErickDeLeon <43995525+ErickDeLeon@users.noreply.github.com>
+Date:   Mon Sep 2 09:42:37 2019 -0600
+
+    Create README.md
+
+commit 4b3d83aeea4d7943789fbc7f614984ddea31d367
+Author: ErickDeLeon <erevdeleonin@ittepic.edu.mx>
+Date:   Mon Sep 2 09:02:05 2019 -0600
+
+    Se ha agregado un git ignore
+
+commit e8499a8ed9045067aa28587f52762596acc9e86d
+Author: ErickDeLeon <erevdeleonin@ittepic.edu.mx>
+Date:   Thu Aug 29 09:24:58 2019 -0600
+
+    Codigo html
+
+commit 0e7bd7033889c52de5272da81f3226315c0f8be7
+Author: Erick Everaldo <erevdeleonin@ittepic.edu.mx>
+Date:   Wed Aug 28 09:53:30 2019 -0600
+
+    Mi primer prueba
